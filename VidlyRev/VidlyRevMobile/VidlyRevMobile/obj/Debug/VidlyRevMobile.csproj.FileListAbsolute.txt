@@ -1,0 +1,16 @@
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\bin\Debug\VidlyRevMobile.dll
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\bin\Debug\VidlyRevMobile.pdb
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\bin\Debug\Xamarin.Forms.Core.dll
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\bin\Debug\Xamarin.Forms.Platform.dll
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\bin\Debug\Xamarin.Forms.Xaml.dll
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\bin\Debug\Xamarin.Forms.Core.pdb
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\bin\Debug\Xamarin.Forms.Core.xml
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\bin\Debug\Xamarin.Forms.Platform.pdb
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\bin\Debug\Xamarin.Forms.Xaml.pdb
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\bin\Debug\Xamarin.Forms.Xaml.xml
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\obj\Debug\VidlyRevMobile.csprojResolveAssemblyReference.cache
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\obj\Debug\VidlyRevMobile.csproj.CoreCompileInputs.cache
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\obj\Debug\VidlyRevMobile.MainPage.xaml.g.cs
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\obj\Debug\VidlyRevMobile.App.xaml.g.cs
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\obj\Debug\VidlyRevMobile.dll
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRevMobile\VidlyRevMobile\obj\Debug\VidlyRevMobile.pdb
