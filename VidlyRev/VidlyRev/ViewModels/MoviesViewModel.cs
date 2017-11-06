@@ -10,5 +10,6 @@ namespace VidlyRev.ViewModels
     {
         public List<Movie> Movies { get; set; }
         public List<Customer> Customers { get; set; }
+
     }
 }
