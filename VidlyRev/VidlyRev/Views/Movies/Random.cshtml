@@ -10,7 +10,7 @@
     var className = Model.Customers.Count > 0 ? "popular" : null;
 }
 
-<h2 class="@className">@Model.Movie.Name</h2>
+<h2 class="@className">@Model.Movies.SingleOrDefault(m => m.Id == 1).Name</h2>
 
 @if (Model.Customers.Count == 0)
 {
