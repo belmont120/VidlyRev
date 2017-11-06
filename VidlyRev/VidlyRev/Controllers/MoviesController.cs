@@ -5,30 +5,35 @@ using System.Web;
 using System.Web.Mvc;
 using VidlyRev.Models;
 using VidlyRev.ViewModels;
+using System.Data.Entity;
 
 namespace VidlyRev.Controllers
 {
     public class MoviesController : Controller
     {
-        MoviesViewModel viewModel = new MoviesViewModel
+        private ApplicationDbContext _context;
+
+        public MoviesController()
         {
-            Movies = new List<Movie>
-            {
-                new Movie { Id = 1, Name = "Shrek!" },
-                new Movie { Id = 2, Name = "Wall-e" }
-            }
-        };
+            _context = new ApplicationDbContext();
+        }
+
+        protected override void Dispose(bool disposing)
+        {
+            _context.Dispose();
+        }
 
         // GET: Movies
         public ActionResult Index()
         {
+            var viewModel = new MoviesViewModel { Movies = _context.Movies.Include(m => m.Genre).ToList() };
 
             return View(viewModel);
         }
 
         public ActionResult Details(int id)
         {
-            var movie = viewModel.Movies.SingleOrDefault(c => c.Id == id);
+            var movie = _context.Movies.Include(m => m.Genre).SingleOrDefault(c => c.Id == id);
 
             return View(movie);
         }
@@ -39,6 +44,8 @@ namespace VidlyRev.Controllers
 
             //ViewData["Movie"] = movie;
             //ViewBag.Movie = movie;
+
+            var viewModel = new MoviesViewModel { Movies = _context.Movies.ToList() };
 
             return View(viewModel);
         }

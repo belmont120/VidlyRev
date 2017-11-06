@@ -129,3 +129,8 @@ H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.Cr
 H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.addIsSubscribedToCustomer.resources
 H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.AddMembershipType.resources
 H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.PopulateMembershipType.resources
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.AddAnnotationsToCustomerAndMovie.resources
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.AddNameToMembershipType.resources
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.AddBirthDateToCustomer.resources
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.AddGenre.resources
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.PopulateGenres.resources
