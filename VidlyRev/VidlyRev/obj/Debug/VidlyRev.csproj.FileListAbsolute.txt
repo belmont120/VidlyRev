@@ -123,3 +123,9 @@ H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.csprojResolve
 H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.csproj.CoreCompileInputs.cache
 H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.dll
 H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.pdb
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.InitialModel.resources
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.csproj.GenerateResource.Cache
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.CreateTablesCustomersMovies.resources
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.addIsSubscribedToCustomer.resources
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.AddMembershipType.resources
+H:\Projects\VidlyRev\VidlyRev\VidlyRev\VidlyRev\obj\Debug\VidlyRev.Migrations.PopulateMembershipType.resources
